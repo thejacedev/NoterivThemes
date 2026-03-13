@@ -1,0 +1,27 @@
+{
+  "id": "cyber-neon",
+  "name": "Cyber Neon",
+  "author": "Jace Sleeman",
+  "version": "1.0.0",
+  "description": "High contrast cyberpunk with neon glows",
+  "colors": {
+    "bgPrimary": "#0a0a12",
+    "bgSecondary": "#06060e",
+    "bgTertiary": "#14141f",
+    "border": "#1e1e30",
+    "textPrimary": "#e0e0f0",
+    "textSecondary": "#b0b0c8",
+    "textMuted": "#505068",
+    "accent": "#00e5ff",
+    "green": "#39ff14",
+    "red": "#ff1744",
+    "yellow": "#ffea00",
+    "blue": "#00e5ff",
+    "mauve": "#d500f9",
+    "peach": "#ff6d00",
+    "teal": "#1de9b6",
+    "pink": "#ff4081",
+    "scrollbar": "#1e1e30",
+    "scrollbarHover": "#2a2a42"
+  }
+}

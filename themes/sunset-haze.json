@@ -1,0 +1,27 @@
+{
+  "id": "sunset-haze",
+  "name": "Sunset Haze",
+  "author": "Noteriv Community",
+  "version": "1.0.0",
+  "description": "Warm sunset gradients with dusky purple undertones",
+  "colors": {
+    "bgPrimary": "#1f1520",
+    "bgSecondary": "#18101a",
+    "bgTertiary": "#2d1f30",
+    "border": "#442e48",
+    "textPrimary": "#ecd8e6",
+    "textSecondary": "#c8aec0",
+    "textMuted": "#7e6478",
+    "accent": "#e88a6a",
+    "green": "#8cc084",
+    "red": "#e86a6a",
+    "yellow": "#e8c86a",
+    "blue": "#6ab0e8",
+    "mauve": "#c286e0",
+    "peach": "#e88a6a",
+    "teal": "#6ad4c0",
+    "pink": "#e86aa0",
+    "scrollbar": "#442e48",
+    "scrollbarHover": "#5a3e60"
+  }
+}

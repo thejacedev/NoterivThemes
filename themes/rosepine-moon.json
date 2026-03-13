@@ -1,0 +1,27 @@
+{
+  "id": "rosepine-moon",
+  "name": "Rose Pine Moon",
+  "author": "Noteriv Community",
+  "version": "1.0.0",
+  "description": "Inspired by Rose Pine with softer moon tones",
+  "colors": {
+    "bgPrimary": "#232136",
+    "bgSecondary": "#1e1d2f",
+    "bgTertiary": "#2d2b45",
+    "border": "#3e3b5a",
+    "textPrimary": "#e0def4",
+    "textSecondary": "#c4c0e0",
+    "textMuted": "#6e6a86",
+    "accent": "#c4a7e7",
+    "green": "#9ccfd8",
+    "red": "#eb6f92",
+    "yellow": "#f6c177",
+    "blue": "#3e8fb0",
+    "mauve": "#c4a7e7",
+    "peach": "#f6c177",
+    "teal": "#9ccfd8",
+    "pink": "#eb6f92",
+    "scrollbar": "#3e3b5a",
+    "scrollbarHover": "#524f6f"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "espresso",
+  "name": "Espresso",
+  "author": "Noteriv Community",
+  "version": "1.0.0",
+  "description": "Rich coffee-inspired warm dark theme",
+  "colors": {
+    "bgPrimary": "#1c1816",
+    "bgSecondary": "#15120f",
+    "bgTertiary": "#2a2420",
+    "border": "#3d342e",
+    "textPrimary": "#e8ddd0",
+    "textSecondary": "#c4b5a4",
+    "textMuted": "#7a6e60",
+    "accent": "#c4883c",
+    "green": "#8aad5e",
+    "red": "#c45c5c",
+    "yellow": "#d4a84e",
+    "blue": "#5c8ab8",
+    "mauve": "#a07ebd",
+    "peach": "#c4883c",
+    "teal": "#5ead8a",
+    "pink": "#bd6888",
+    "scrollbar": "#3d342e",
+    "scrollbarHover": "#524840"
+  }
+}

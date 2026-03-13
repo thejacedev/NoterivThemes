@@ -1,0 +1,65 @@
+{
+  "name": "NoterivThemes",
+  "description": "Community theme repository for Noteriv",
+  "version": "1.0.0",
+  "author": "Jace Sleeman",
+  "license": "MIT",
+  "themes": [
+    {
+      "id": "midnight-ember",
+      "name": "Midnight Ember",
+      "author": "Jace Sleeman",
+      "file": "themes/midnight-ember.json",
+      "type": "dark"
+    },
+    {
+      "id": "moss-garden",
+      "name": "Moss Garden",
+      "author": "Jace Sleeman",
+      "file": "themes/moss-garden.json",
+      "type": "dark"
+    },
+    {
+      "id": "cyber-neon",
+      "name": "Cyber Neon",
+      "author": "Jace Sleeman",
+      "file": "themes/cyber-neon.json",
+      "type": "dark"
+    },
+    {
+      "id": "rosepine-moon",
+      "name": "Rose Pine Moon",
+      "author": "Noteriv Community",
+      "file": "themes/rosepine-moon.json",
+      "type": "dark"
+    },
+    {
+      "id": "sunset-haze",
+      "name": "Sunset Haze",
+      "author": "Noteriv Community",
+      "file": "themes/sunset-haze.json",
+      "type": "dark"
+    },
+    {
+      "id": "espresso",
+      "name": "Espresso",
+      "author": "Noteriv Community",
+      "file": "themes/espresso.json",
+      "type": "dark"
+    },
+    {
+      "id": "arctic-frost",
+      "name": "Arctic Frost",
+      "author": "Noteriv Community",
+      "file": "themes/arctic-frost.json",
+      "type": "light"
+    },
+    {
+      "id": "paper-ink",
+      "name": "Paper & Ink",
+      "author": "Noteriv Community",
+      "file": "themes/paper-ink.json",
+      "type": "light"
+    }
+  ]
+}

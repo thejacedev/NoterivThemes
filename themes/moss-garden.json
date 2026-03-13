@@ -1,0 +1,27 @@
+{
+  "id": "moss-garden",
+  "name": "Moss Garden",
+  "author": "Jace Sleeman",
+  "version": "1.0.0",
+  "description": "Earthy forest greens with natural warmth",
+  "colors": {
+    "bgPrimary": "#1a2118",
+    "bgSecondary": "#141a12",
+    "bgTertiary": "#253021",
+    "border": "#354532",
+    "textPrimary": "#d4dac8",
+    "textSecondary": "#b0baa0",
+    "textMuted": "#6e7e62",
+    "accent": "#8cbf6e",
+    "green": "#8cbf6e",
+    "red": "#c75d5d",
+    "yellow": "#d4a844",
+    "blue": "#6ea0bf",
+    "mauve": "#a07ebd",
+    "peach": "#c99058",
+    "teal": "#5dad8a",
+    "pink": "#bd7ea0",
+    "scrollbar": "#354532",
+    "scrollbarHover": "#465a42"
+  }
+}

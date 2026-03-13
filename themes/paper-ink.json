@@ -1,0 +1,27 @@
+{
+  "id": "paper-ink",
+  "name": "Paper & Ink",
+  "author": "Noteriv Community",
+  "version": "1.0.0",
+  "description": "Clean minimal light theme like pen on paper",
+  "colors": {
+    "bgPrimary": "#faf8f5",
+    "bgSecondary": "#f0ede8",
+    "bgTertiary": "#e4e0d8",
+    "border": "#d1cdc4",
+    "textPrimary": "#2c2820",
+    "textSecondary": "#4a453c",
+    "textMuted": "#918a7e",
+    "accent": "#1a6b4e",
+    "green": "#2d8a5e",
+    "red": "#c44040",
+    "yellow": "#a07820",
+    "blue": "#2860a0",
+    "mauve": "#7040a0",
+    "peach": "#b86830",
+    "teal": "#1a6b4e",
+    "pink": "#a04068",
+    "scrollbar": "#d1cdc4",
+    "scrollbarHover": "#bab5aa"
+  }
+}

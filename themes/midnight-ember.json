@@ -1,0 +1,27 @@
+{
+  "id": "midnight-ember",
+  "name": "Midnight Ember",
+  "author": "Jace Sleeman",
+  "version": "1.0.0",
+  "description": "Deep midnight blues with warm ember accents",
+  "colors": {
+    "bgPrimary": "#0f1923",
+    "bgSecondary": "#0a1219",
+    "bgTertiary": "#182635",
+    "border": "#1e3347",
+    "textPrimary": "#d4dce6",
+    "textSecondary": "#a8b8c8",
+    "textMuted": "#5a7a94",
+    "accent": "#e8764d",
+    "green": "#5cbf8a",
+    "red": "#e85c5c",
+    "yellow": "#e8b84d",
+    "blue": "#5c9be8",
+    "mauve": "#a875d6",
+    "peach": "#e8764d",
+    "teal": "#4dbfa8",
+    "pink": "#d66a8a",
+    "scrollbar": "#1e3347",
+    "scrollbarHover": "#2a4560"
+  }
+}
