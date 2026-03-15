@@ -1,0 +1,27 @@
+{
+  "id": "mocha",
+  "name": "Mocha",
+  "author": "Jace Sleeman",
+  "version": "1.0.0",
+  "description": "Rich coffee-inspired dark theme with warm brown and creamy tones",
+  "colors": {
+    "bgPrimary": "#1e1612",
+    "bgSecondary": "#2a201a",
+    "bgTertiary": "#3a2e24",
+    "border": "#4e3e30",
+    "textPrimary": "#e8dcd0",
+    "textSecondary": "#c4b098",
+    "textMuted": "#8a7460",
+    "accent": "#c8945a",
+    "green": "#7aaa5a",
+    "red": "#c85a4a",
+    "yellow": "#c8a44a",
+    "blue": "#6a90b8",
+    "mauve": "#9a78a8",
+    "peach": "#c8845a",
+    "teal": "#5aa898",
+    "pink": "#b8708a",
+    "scrollbar": "#4e3e30",
+    "scrollbarHover": "#6a5440"
+  }
+}

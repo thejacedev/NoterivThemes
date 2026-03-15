@@ -144,6 +144,13 @@
       "author": "Jace Sleeman",
       "file": "themes/cloud-nine.json",
       "type": "light"
+    },
+    {
+      "id": "mocha",
+      "name": "Mocha",
+      "author": "Jace Sleeman",
+      "file": "themes/mocha.json",
+      "type": "dark"
     }
   ]
 }
