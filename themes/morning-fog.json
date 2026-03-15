@@ -1,0 +1,27 @@
+{
+  "id": "morning-fog",
+  "name": "Morning Fog",
+  "author": "Jace Sleeman",
+  "version": "1.0.0",
+  "description": "Soft neutral gray light theme for distraction-free writing",
+  "colors": {
+    "bgPrimary": "#f6f6f7",
+    "bgSecondary": "#eaeaec",
+    "bgTertiary": "#dcdce0",
+    "border": "#c8c8ce",
+    "textPrimary": "#1c1c24",
+    "textSecondary": "#38384a",
+    "textMuted": "#8888a0",
+    "accent": "#5060b0",
+    "green": "#2e8a52",
+    "red": "#c44040",
+    "yellow": "#a88020",
+    "blue": "#5060b0",
+    "mauve": "#7040a0",
+    "peach": "#c06030",
+    "teal": "#1a7870",
+    "pink": "#a84878",
+    "scrollbar": "#c8c8ce",
+    "scrollbarHover": "#b0b0b8"
+  }
+}

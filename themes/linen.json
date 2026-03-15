@@ -1,0 +1,27 @@
+{
+  "id": "linen",
+  "name": "Linen",
+  "author": "Jace Sleeman",
+  "version": "1.0.0",
+  "description": "Warm cream textured theme reminiscent of natural fabric",
+  "colors": {
+    "bgPrimary": "#faf6f0",
+    "bgSecondary": "#f0e8de",
+    "bgTertiary": "#e4d8c8",
+    "border": "#d0c0aa",
+    "textPrimary": "#2c2418",
+    "textSecondary": "#4a3e2e",
+    "textMuted": "#98886e",
+    "accent": "#8a6030",
+    "green": "#3e864e",
+    "red": "#b84040",
+    "yellow": "#8a6030",
+    "blue": "#4468a0",
+    "mauve": "#704890",
+    "peach": "#b86838",
+    "teal": "#247868",
+    "pink": "#a84e68",
+    "scrollbar": "#d0c0aa",
+    "scrollbarHover": "#bead92"
+  }
+}

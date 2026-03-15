@@ -1,0 +1,27 @@
+{
+  "id": "sand-dune",
+  "name": "Sand Dune",
+  "author": "Jace Sleeman",
+  "version": "1.0.0",
+  "description": "Warm sandy light theme with golden desert tones",
+  "colors": {
+    "bgPrimary": "#faf7f0",
+    "bgSecondary": "#f2ece0",
+    "bgTertiary": "#e6dcc8",
+    "border": "#d4c8a8",
+    "textPrimary": "#302810",
+    "textSecondary": "#504020",
+    "textMuted": "#9a8a68",
+    "accent": "#a07020",
+    "green": "#3a8050",
+    "red": "#c04038",
+    "yellow": "#a07020",
+    "blue": "#3868a8",
+    "mauve": "#7848a0",
+    "peach": "#c06828",
+    "teal": "#207868",
+    "pink": "#a84868",
+    "scrollbar": "#d4c8a8",
+    "scrollbarHover": "#c4b490"
+  }
+}

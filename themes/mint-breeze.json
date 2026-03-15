@@ -1,0 +1,27 @@
+{
+  "id": "mint-breeze",
+  "name": "Mint Breeze",
+  "author": "Jace Sleeman",
+  "version": "1.0.0",
+  "description": "Cool minty light theme with refreshing teal tones",
+  "colors": {
+    "bgPrimary": "#f2faf8",
+    "bgSecondary": "#e2f2ee",
+    "bgTertiary": "#cce6e0",
+    "border": "#a8d4ca",
+    "textPrimary": "#142824",
+    "textSecondary": "#2a4a42",
+    "textMuted": "#6a9a8e",
+    "accent": "#18866e",
+    "green": "#18866e",
+    "red": "#c04848",
+    "yellow": "#9a8420",
+    "blue": "#3068a8",
+    "mauve": "#6a48a0",
+    "peach": "#c06830",
+    "teal": "#18866e",
+    "pink": "#a84870",
+    "scrollbar": "#a8d4ca",
+    "scrollbarHover": "#90c4b8"
+  }
+}

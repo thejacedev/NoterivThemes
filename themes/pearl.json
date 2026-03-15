@@ -1,0 +1,27 @@
+{
+  "id": "pearl",
+  "name": "Pearl",
+  "author": "Jace Sleeman",
+  "version": "1.0.0",
+  "description": "Luminous off-white theme with iridescent accents",
+  "colors": {
+    "bgPrimary": "#fafaf8",
+    "bgSecondary": "#f0efe8",
+    "bgTertiary": "#e4e2d8",
+    "border": "#d0cec2",
+    "textPrimary": "#22201a",
+    "textSecondary": "#3e3c32",
+    "textMuted": "#908c7e",
+    "accent": "#5a7088",
+    "green": "#3a8458",
+    "red": "#c04848",
+    "yellow": "#a08828",
+    "blue": "#5a7088",
+    "mauve": "#7a5898",
+    "peach": "#c07040",
+    "teal": "#2a8078",
+    "pink": "#b05878",
+    "scrollbar": "#d0cec2",
+    "scrollbarHover": "#bab8a8"
+  }
+}

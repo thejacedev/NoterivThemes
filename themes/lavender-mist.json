@@ -1,0 +1,27 @@
+{
+  "id": "lavender-mist",
+  "name": "Lavender Mist",
+  "author": "Jace Sleeman",
+  "version": "1.0.0",
+  "description": "Gentle purple-tinted light theme with a calming feel",
+  "colors": {
+    "bgPrimary": "#f8f5fc",
+    "bgSecondary": "#eee8f6",
+    "bgTertiary": "#e0d6ee",
+    "border": "#cec2de",
+    "textPrimary": "#201830",
+    "textSecondary": "#3a2e50",
+    "textMuted": "#8878a0",
+    "accent": "#7040b0",
+    "green": "#2e8a52",
+    "red": "#c44040",
+    "yellow": "#a08020",
+    "blue": "#3858c0",
+    "mauve": "#7040b0",
+    "peach": "#c06030",
+    "teal": "#1a7870",
+    "pink": "#b04080",
+    "scrollbar": "#cec2de",
+    "scrollbarHover": "#b8a8d0"
+  }
+}

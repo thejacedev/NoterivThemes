@@ -1,0 +1,27 @@
+{
+  "id": "honeydew",
+  "name": "Honeydew",
+  "author": "Jace Sleeman",
+  "version": "1.0.0",
+  "description": "Fresh green-tinted light theme inspired by morning gardens",
+  "colors": {
+    "bgPrimary": "#f4f9f4",
+    "bgSecondary": "#e6f2e6",
+    "bgTertiary": "#d4e8d4",
+    "border": "#b8d4b8",
+    "textPrimary": "#1a2e1a",
+    "textSecondary": "#2e4a2e",
+    "textMuted": "#6e946e",
+    "accent": "#2a7a3e",
+    "green": "#2a7a3e",
+    "red": "#c44444",
+    "yellow": "#9a7a18",
+    "blue": "#3060a0",
+    "mauve": "#6a40a0",
+    "peach": "#b86028",
+    "teal": "#1a7068",
+    "pink": "#a84068",
+    "scrollbar": "#b8d4b8",
+    "scrollbarHover": "#9ec49e"
+  }
+}

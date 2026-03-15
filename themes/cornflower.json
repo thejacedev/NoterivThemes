@@ -1,0 +1,27 @@
+{
+  "id": "cornflower",
+  "name": "Cornflower",
+  "author": "Jace Sleeman",
+  "version": "1.0.0",
+  "description": "Bright and airy light theme with vivid blue accents",
+  "colors": {
+    "bgPrimary": "#f6f8fd",
+    "bgSecondary": "#eaeff8",
+    "bgTertiary": "#dae2f0",
+    "border": "#b8c8e2",
+    "textPrimary": "#18203a",
+    "textSecondary": "#2e3c5e",
+    "textMuted": "#7888aa",
+    "accent": "#4070d0",
+    "green": "#2a8a4a",
+    "red": "#d04040",
+    "yellow": "#a88820",
+    "blue": "#4070d0",
+    "mauve": "#7040b8",
+    "peach": "#d07030",
+    "teal": "#1a8878",
+    "pink": "#c04878",
+    "scrollbar": "#b8c8e2",
+    "scrollbarHover": "#a0b4d0"
+  }
+}

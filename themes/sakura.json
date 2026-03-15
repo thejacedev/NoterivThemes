@@ -1,0 +1,27 @@
+{
+  "id": "sakura",
+  "name": "Sakura",
+  "author": "Jace Sleeman",
+  "version": "1.0.0",
+  "description": "Cherry blossom inspired light theme with delicate pinks",
+  "colors": {
+    "bgPrimary": "#fef7f9",
+    "bgSecondary": "#fceef2",
+    "bgTertiary": "#f6dce4",
+    "border": "#e8c4d0",
+    "textPrimary": "#2a1820",
+    "textSecondary": "#4a2e3a",
+    "textMuted": "#a08090",
+    "accent": "#d0507a",
+    "green": "#3a8858",
+    "red": "#d04050",
+    "yellow": "#b08020",
+    "blue": "#4870b8",
+    "mauve": "#8848b0",
+    "peach": "#d07040",
+    "teal": "#208878",
+    "pink": "#d0507a",
+    "scrollbar": "#e8c4d0",
+    "scrollbarHover": "#dab0c0"
+  }
+}

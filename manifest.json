@@ -60,6 +60,90 @@
       "author": "Noteriv Community",
       "file": "themes/paper-ink.json",
       "type": "light"
+    },
+    {
+      "id": "rose-quartz",
+      "name": "Rose Quartz",
+      "author": "Jace Sleeman",
+      "file": "themes/rose-quartz.json",
+      "type": "light"
+    },
+    {
+      "id": "honeydew",
+      "name": "Honeydew",
+      "author": "Jace Sleeman",
+      "file": "themes/honeydew.json",
+      "type": "light"
+    },
+    {
+      "id": "lavender-mist",
+      "name": "Lavender Mist",
+      "author": "Jace Sleeman",
+      "file": "themes/lavender-mist.json",
+      "type": "light"
+    },
+    {
+      "id": "sand-dune",
+      "name": "Sand Dune",
+      "author": "Jace Sleeman",
+      "file": "themes/sand-dune.json",
+      "type": "light"
+    },
+    {
+      "id": "morning-fog",
+      "name": "Morning Fog",
+      "author": "Jace Sleeman",
+      "file": "themes/morning-fog.json",
+      "type": "light"
+    },
+    {
+      "id": "sakura",
+      "name": "Sakura",
+      "author": "Jace Sleeman",
+      "file": "themes/sakura.json",
+      "type": "light"
+    },
+    {
+      "id": "pearl",
+      "name": "Pearl",
+      "author": "Jace Sleeman",
+      "file": "themes/pearl.json",
+      "type": "light"
+    },
+    {
+      "id": "mint-breeze",
+      "name": "Mint Breeze",
+      "author": "Jace Sleeman",
+      "file": "themes/mint-breeze.json",
+      "type": "light"
+    },
+    {
+      "id": "apricot-dawn",
+      "name": "Apricot Dawn",
+      "author": "Jace Sleeman",
+      "file": "themes/apricot-dawn.json",
+      "type": "light"
+    },
+    {
+      "id": "cornflower",
+      "name": "Cornflower",
+      "author": "Jace Sleeman",
+      "file": "themes/cornflower.json",
+      "type": "light"
+    },
+    {
+      "id": "linen",
+      "name": "Linen",
+      "author": "Jace Sleeman",
+      "file": "themes/linen.json",
+      "type": "light"
+    },
+    {
+      "id": "cloud-nine",
+      "name": "Cloud Nine",
+      "author": "Jace Sleeman",
+      "file": "themes/cloud-nine.json",
+      "type": "light"
     }
   ]
 }

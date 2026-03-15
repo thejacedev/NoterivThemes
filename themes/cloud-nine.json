@@ -1,0 +1,27 @@
+{
+  "id": "cloud-nine",
+  "name": "Cloud Nine",
+  "author": "Jace Sleeman",
+  "version": "1.0.0",
+  "description": "Dreamy sky-inspired light theme with soft blues and whites",
+  "colors": {
+    "bgPrimary": "#f8fafd",
+    "bgSecondary": "#edf2f8",
+    "bgTertiary": "#dee8f2",
+    "border": "#c0d0e4",
+    "textPrimary": "#1a2440",
+    "textSecondary": "#304060",
+    "textMuted": "#8098b8",
+    "accent": "#5888c8",
+    "green": "#2e8854",
+    "red": "#cc4444",
+    "yellow": "#a88a22",
+    "blue": "#5888c8",
+    "mauve": "#7850b0",
+    "peach": "#c87038",
+    "teal": "#208880",
+    "pink": "#b85078",
+    "scrollbar": "#c0d0e4",
+    "scrollbarHover": "#a8bcd4"
+  }
+}

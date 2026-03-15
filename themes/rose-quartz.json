@@ -1,0 +1,27 @@
+{
+  "id": "rose-quartz",
+  "name": "Rose Quartz",
+  "author": "Jace Sleeman",
+  "version": "1.0.0",
+  "description": "Soft rosy light theme with warm pink undertones",
+  "colors": {
+    "bgPrimary": "#fdf6f6",
+    "bgSecondary": "#f8ecec",
+    "bgTertiary": "#f0dede",
+    "border": "#e0cccc",
+    "textPrimary": "#2d1f1f",
+    "textSecondary": "#4d3838",
+    "textMuted": "#9a8080",
+    "accent": "#b04060",
+    "green": "#3a8a5c",
+    "red": "#c43c3c",
+    "yellow": "#a87830",
+    "blue": "#4068b0",
+    "mauve": "#8040a0",
+    "peach": "#c06838",
+    "teal": "#2a7a6e",
+    "pink": "#b04060",
+    "scrollbar": "#e0cccc",
+    "scrollbarHover": "#d0b8b8"
+  }
+}

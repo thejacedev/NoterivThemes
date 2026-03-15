@@ -1,0 +1,27 @@
+{
+  "id": "apricot-dawn",
+  "name": "Apricot Dawn",
+  "author": "Jace Sleeman",
+  "version": "1.0.0",
+  "description": "Warm sunrise theme with soft orange and peach tones",
+  "colors": {
+    "bgPrimary": "#fdf8f4",
+    "bgSecondary": "#f8ede2",
+    "bgTertiary": "#f0dece",
+    "border": "#e0c8b0",
+    "textPrimary": "#2e2018",
+    "textSecondary": "#4e3828",
+    "textMuted": "#a08878",
+    "accent": "#c86830",
+    "green": "#3a8850",
+    "red": "#c84040",
+    "yellow": "#a88020",
+    "blue": "#4068a8",
+    "mauve": "#7848a0",
+    "peach": "#c86830",
+    "teal": "#1a8070",
+    "pink": "#b85068",
+    "scrollbar": "#e0c8b0",
+    "scrollbarHover": "#d0b498"
+  }
+}
